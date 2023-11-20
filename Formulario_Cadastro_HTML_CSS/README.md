@@ -6,5 +6,6 @@ A minha versão está modificada da versão original da aula.
 
 #PRÉ-VISUALIZAÇÃO
 
-![image](https://github.com/wrksystem/Formularios_HTML_CSS/assets/51803873/a95f9b7f-3c25-459c-8e97-97f4af4e580d)
+![image](https://github.com/wrksystem/Formularios_HTML_CSS/assets/51803873/71e78b1e-4c2b-4e43-a825-b1907f8f2cfd)
+
 
