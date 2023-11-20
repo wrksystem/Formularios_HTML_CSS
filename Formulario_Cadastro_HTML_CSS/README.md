@@ -4,7 +4,7 @@ Formulário criado utilizando HTML e CSS puro, usando boas práticas de desenvol
 
 A minha versão está modificada da versão original da aula.
 
-#PRÉ-VISUALIZAÇÃO
+# PRÉ-VISUALIZAÇÃO
 
 ![image](https://github.com/wrksystem/Formularios_HTML_CSS/assets/51803873/71e78b1e-4c2b-4e43-a825-b1907f8f2cfd)
 
