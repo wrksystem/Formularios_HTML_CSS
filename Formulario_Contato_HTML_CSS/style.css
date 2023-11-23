@@ -46,7 +46,7 @@ textarea{
 
 .form_box input,
 .form_box textarea{
-    width: calc(80% - 8px);
+    width: calc(46% - 8px);
     height: 48px;
     border-radius: 8px;
     border: thin solid #999;
